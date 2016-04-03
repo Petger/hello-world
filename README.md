@@ -1,2 +1,4 @@
 # hello-world
-Testni Repository
+
+Pozdravljeni.
+Tole je samo za test.
